@@ -28,13 +28,13 @@ body {
 
 .name {
     font-size: 24px;
-    color: green;
+    color: #333;
     margin-bottom: 5px;
 }
 
 .bio {
     font-size: 14px;
-    color: #666;
+    color: green;
     margin-bottom: 20px;
 }
 
