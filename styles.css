@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+    background-color:  #000000;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
 
 .profile-card {
     text-align: center;
-    background-color: white;
+    background-color:  #000000;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -34,7 +34,7 @@ body {
 
 .bio {
     font-size: 14px;
-    color: green;
+    color:  #000000;
     margin-bottom: 20px;
 }
 
